@@ -1,2 +1,2 @@
-# Vrinda-Store-Analysis-using-excel
-Creating a dashboard using excel.
+# Vrinda-Store-Analysis-using-google sheets
+Creating a dashboard using google sheets.
